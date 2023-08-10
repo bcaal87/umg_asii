@@ -1,5 +1,4 @@
 # IPARCIAL_4090_20_24293
-Codigo fuente para evaluación
 ##Pasos
 ###1. Se realizó un fork al repositorio
 ###2. Se inició un repositorio local
