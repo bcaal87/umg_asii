@@ -11,4 +11,6 @@
 
 6. Agregue en el README 
 
-7. 
+7. Subi los cambios del repositorio remoto 
+
+8. realice el pull request final
