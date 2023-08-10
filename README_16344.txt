@@ -7,4 +7,8 @@
 4. cree un archivo index y solo copie el codigo del index ogiginal, cambiando el nombre
    y modificando el pie de la pagina con mi correo y mi nombre completo 
 
-5. 
+5. hice los cambios en el repositorio local y agregue el Gitmoji
+
+6. Agregue en el README 
+
+7. 
