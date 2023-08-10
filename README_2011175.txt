@@ -1,0 +1,4 @@
+1. Se creo una rama diferente
+2. Se agrego correo electronico y nombre en el pie de la pagina
+3. Se agregaron temas sobre la importancia del analisis
+4. Fucion con la rama master
