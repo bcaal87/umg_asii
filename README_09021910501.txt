@@ -1,0 +1,29 @@
+Pasos realizados:
+
+1 Busqué el repositorio original en github.
+
+2 Hice un fork al repositorio para poder clonarlo y ponerle el nombre IPARCIAL_0902-19-10501
+
+3 Cloné el repositorio con git clone en el panel.
+
+4 Creé rama utilizando el comando git checkout -b hotfix0902-19-10501
+
+5 Hice la copia del archivo index.html y lo nombré el index_Katherin_0902_29_10501.html
+
+6. Agregué mi nombre y correo.
+
+7.Subí los cambios al repositorio y agregué un gitmoji git commit -m ":zap: Cambios kam" y luego hacer el push
+
+8. Agregué el texto solicitado en la sección de temas.
+
+9. Guardo los cambios utilizando control s 
+
+10. Hacer un nuevo commit git commit -m ":zap: Comentario"
+
+11. Hacer el merge para traer los cambios a la rama main git merge hotfix0902-19-10501
+
+12. Agregar el archivo README con los pasos que se realizaron
+
+13.Subir los cambios al repositorio remoto
+
+14. Hacer el pull request
